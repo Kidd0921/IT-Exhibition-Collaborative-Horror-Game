@@ -1,7 +1,7 @@
 # IT-Exhibition-Collaborative-Horror-Game
 # PrisonEscapeHorror
 
-Thanks to Kitt, who has written the plot of the story and some of the original code. While I optimised the code and added a few features.
+Thanks to Chee Chun Zhe, who has optimised the code and added a few features making more fun to interact with.
 
 ## Setup Instructions
 
